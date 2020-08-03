@@ -1,5 +1,4 @@
-# Application
-this is an application on Html, Css Without using any framework and either javascript and its liberary.
+# Fares Khalid Portfolio
+this is an application shows my skills in design and develope websities.
 ## Contributors:
-  - Amr Nabil
   - Fares Khalid
